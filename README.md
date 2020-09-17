@@ -2,11 +2,11 @@
 
 * to start the docker paste:
 
-sudo docker build --tag sotr:1.0 .
+sudo docker build --tag docname:1.0 .
 
 and:
 
-sudo docker run -p 8888:8888 sotr:1.0 
+sudo docker run -p 8888:8888 docname:1.0 
 
 
 # notebooks
